@@ -7,9 +7,9 @@ keywords: Phụ kiện cưới, Bình hoa cưới,Khung hình cưới Ghế Tiff
 ---
 
 
-# Giới thiệu
+# Giới thiệu Phụ kiện cưới
 
-**Phụ kiện cưới**
+
 
 Một tiệc cưới hoàn hảo và sang trọng không thể thiếu những phụ kiện trang trí cưới độc đáo. Đối với xu hướng ngày càng phát triển và nâng cao, các cặp đôi thường thường có xu hướng tìm kiếm cho đám cưới của mình những phụ kiên cưới độc lạ nhưng không kém phần sang trọng tinh tế. Hiểu được nhu cầu đó Midori không ngừng tìm kiếm và cung cấp cho khách hàng nhiều  loại phụ kiện cưới với mẫu mã đa dạng, giá thành rẻ như : Chân nến pha lê, bình hoa trang trí, kệ bánh, khung hình , bảng tên cô dâu chú rễ, thùng tiền cưới, hoa cầm tay cô dâu ….
 
