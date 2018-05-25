@@ -1,27 +1,25 @@
 ﻿---
-title: 'Ghế Tiffany'
+title: 'Phụ kiện cưới'
 layout: HomePage
 path: '/'
-meta: Ghế Tiffany
-keywords: Ghế Tiffany, Ghế Chiavari, Ghế Chiavari midorishop, cho thue ghe Tiffany
+meta: Phụ kiện cưới
+keywords: Phụ kiện cưới, Bình hoa cưới,Khung hình cưới Ghế Tiffany, Ghế Chiavari, Ghế Chiavari midorishop, cho thue ghe Tiffany
 ---
 
 
 # Giới thiệu
 
+**Phụ kiện cưới**
+Một tiệc cưới hoàn hảo và sang trọng không thể thiếu những phụ kiện trang trí cưới độc đáo. Đối với xu hướng ngày càng phát triển và nâng cao, các cặp đôi thường thường có xu hướng tìm kiếm cho đám cưới của mình những phụ kiên cưới độc lạ nhưng không kém phần sang trọng tinh tế. Hiểu được nhu cầu đó Midori không ngừng tìm kiếm và cung cấp cho khách hàng nhiều  loại phụ kiện cưới với mẫu mã đa dạng, giá thành rẻ như : Chân nến pha lê, bình hoa trang trí, kệ bánh, khung hình , bảng tên cô dâu chú rễ, thùng tiền cưới, hoa cầm tay cô dâu ….
+**Chân nến**
+Chuyên cung cấp sỉ và lẻ chân nến, chân hoa nghệ thuật pha lẫn cổ điển độc đáo, chân nến kim loại, chân nến cắm hoa, chân nến pha lê rất sang trọng dùng cho trang trí tiệc cưới, bàn tiệc sinh nhật, khách sạn, nhà hàng, quán ba, phòng khách…
+**Bình hoa**
+Cung cấp sỉ và lẻ nhiều mẫu bình hoa đa dạng về kiểu dạng lẫn chất liệu như: gốm, thủy tinh, gỗ, poly composite, … với đủ kích cỡ , hoa văn đa dạng để dễ dàng cho bạn lựa chọn cho không gian trang trí của mình.
+**Khung hình**
+Chuyên cung cấp sỉ và lẻ các loại khung hình, khung hình cưới, khung hình để bàn với nhiều chất liệu đa dạng: nhựa, poly composite để bạn dễ dàng lựa chọn.
+
 Ghế Tiffany hay còn được gọi là Ghế Chiavari là một thiết kế nổi tiếng của vùng Liguria, Ý xuất hiện từ đầu thế kỉ 19. Kể từ khi ra đời, với thiết kế thanh lịch tao nhã, chiếc ghế Tiffany đã có mặt ở khắp mọi nơi, từ phòng tiệc của những khách sạn cao cấp đến phòng ăn của Nhà Trắng. Đặc biệt, ghế Tiffany đã trở thành một phần không thể thiếu của những buổi tiệc cưới thanh lịch. Để tạo nên một đám cưới hiện đại mà vẫn cổ điển lich lãm.
  
-Quí khách có thể order thêm theo yêu cầu (tuỳ chọn màu sắc: Vàng, Bạc, Đồng, Trắng ...) thời gian giao hàng từ 15-30 ngày với sản phẩm đặt hàng mới. Báo giá chi tiết vui lòng liên hệ 0918 870 780
-
-
-+ Có 6 màu: Trắng, vàng, bạc, đồng, gold , rose gold
-+ Là thương hiệu uy tín lâu năm và là đơn vị đầu tiên cung cấp chủng loại ghế này tại thị trường miền Nam , chúng tôi luôn cam kết 
-* Ghế bền, đẹp.
-* Không bị lỗi khuôn đúc.
-* Ghế đến tay khách không bị trầy xước, lỗi xiêu vẹo ...
-* Free Vận chuyển tận nơi đối với khách tại nội thành Sài Gòn, vận chuyển đến nhà xe cho khách ở tỉnh thành khác.
-
-*** Giá ghế bán theo số lượng: dao động từ 390k-450k tuỳ theo số lượng khách mua. Ghế không kèm nệm.
 # Mọi vấn đề phát sinh khác
 
 Hãy liên hệ trực tiếp chúng tôi theo địa chỉ sau:
@@ -42,7 +40,7 @@ Hãy liên hệ trực tiếp chúng tôi theo địa chỉ sau:
  
 Hoặc liên hệ theo số điện thoại được ghi dưới đây [**0918 870 780**](tel:+84918870780) (Thảo Nguyên). 
 
-Hoặc bạn truy cập vào địa chỉ Facebook sau đây [**Ghế Tiffany**](https://www.facebook.com/dotrangtricuoi). Hãy an tâm tận hưởng dịch vụ của Ghế Tiffany - Thương hiệu Ghế Tiffany cao cấp do Midorishop cung cấp bạn nhé.
+Hoặc bạn truy cập vào địa chỉ Facebook sau đây [**Phụ kiện cưới**](https://www.facebook.com/dotrangtricuoi). Hãy an tâm tận hưởng dịch vụ của Phụ kiện cưới  - Thương hiệu cao cấp do Midorishop cung cấp bạn nhé.
 
 Thân chào!
 Đội ngũ phát triển và hỗ trợ Khách Hàng
