@@ -1,4 +1,4 @@
----
+﻿---
 priority: b
 title: EVEREST Giày Nam Cột Dây Thời Trang
 layout: ArtistPage
@@ -11,9 +11,9 @@ keywords: EVEREST Giày Nam Cột Dây Thời Trang
 
 location: Bình Dương Province
 prices: 639,560
-orders: http://bakadono.com/payments
-messages: https://www.facebook.com/messages/t/thaoamtanuyen
-website: https://www.robins.vn/everest-giay-nam-cot-day-thoi-trang-xanh-bi%E1%BB%83n-737999.html
+orders: http://phukientrangtricuoi.com/payments
+messages: https://www.facebook.com/messages/t/dotrangtricuoi
+website: 
 bandcamp: 
 bandcampLabelTrack: 
 facebook: 
@@ -71,7 +71,7 @@ THỜI GIAN
 
 PHÍ VẬN CHUYỂN
 
-TP. Hồ Chí Minh, Hà Nội	1 - 3 ngày làm việc	Thứ 2 – Sáng Thứ 7
+TP. Hồ Chí Minh	1 - 3 ngày làm việc	Thứ 2 – Sáng Thứ 7
 Sáng: 9:00 – 12:00
 Chiều: 1:00 – 5:00
 - MIỄN PHÍ GIAO HÀNG: Giá trị mua hàng cùng 1 NHÀ CUNG CẤP ≥ 449,000 VND

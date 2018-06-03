@@ -1,4 +1,4 @@
----
+﻿---
 priority: b
 title: Wave RSX FI 110cc
 layout: ArtistPage
@@ -9,10 +9,10 @@ key: waversx
 meta: Wave RSX FI 110cc
 keywords: Wave RSX FI 110cc
 
-location: Bình Dương Province
+location: Sài gòn
 prices: 24,000,000
-orders: http://bakadono.com/payments
-messages: https://www.facebook.com/messages/t/thaoamtanuyen
+orders: http://phukientrangtricuoi.com/payments
+messages: https://www.facebook.com/messages/t/dotrangtricuoi
 website: 
 bandcamp: 
 bandcampLabelTrack: 

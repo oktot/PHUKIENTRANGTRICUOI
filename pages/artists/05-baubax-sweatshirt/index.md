@@ -1,4 +1,4 @@
----
+﻿---
 priority: b
 title: BauBax Men's Sweatshirt
 layout: ArtistPage
@@ -11,8 +11,8 @@ keywords: BauBax Men's Sweatshirt
 
 location: Bình Dương Province
 prices: 200 $
-orders: http://bakadono.com/payments
-messages: https://www.facebook.com/messages/t/thaoamtanuyen
+orders: http://phukientrangtricuoi.com/payments
+messages: https://www.facebook.com/messages/t/oktotcom
 website: 
 bandcamp: 
 bandcampLabelTrack: 

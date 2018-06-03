@@ -1,4 +1,4 @@
----
+﻿---
 priority: b
 title: TINTO Giày Sneaker BLUESKY
 layout: ArtistPage
@@ -11,9 +11,9 @@ keywords: TINTO Giày Sneaker BLUESKY
 
 location: Bình Dương Province
 prices: 449,100
-orders: http://bakadono.com/payments
-messages: https://www.facebook.com/messages/t/thaoamtanuyen
-website: https://www.robins.vn/tinto-giay-sneaker-bluesky-xanh-d%C6%B0%C6%A1ng-684969.html
+orders: http://phukiencuoi.com/payments
+messages: https://www.facebook.com/messages/t/dotrangtricuoi
+website: 
 bandcamp: 
 bandcampLabelTrack: 
 facebook: 
@@ -70,7 +70,7 @@ THỜI GIAN
 
 PHÍ VẬN CHUYỂN
 
-TP. Hồ Chí Minh, Hà Nội	1 - 3 ngày làm việc	Thứ 2 – Sáng Thứ 7
+TP. Hồ Chí Minh 1 - 3 ngày làm việc	Thứ 2 – Sáng Thứ 7
 Sáng: 9:00 – 12:00
 Chiều: 1:00 – 5:00
 - MIỄN PHÍ GIAO HÀNG: Giá trị mua hàng cùng 1 NHÀ CUNG CẤP ≥ 449,000 VND

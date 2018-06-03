@@ -1,4 +1,4 @@
----
+﻿---
 priority: b
 title: Điện thoại Oppo F5
 layout: ArtistPage
@@ -11,8 +11,8 @@ keywords: Điện thoại Oppo F5
 
 location: Bình Dương Province
 prices: 6,990,000
-orders: http://bakadono.com/payments
-messages: https://www.facebook.com/messages/t/thaoamtanuyen
+orders: http://phukientrangtricuoi.com/payments
+messages: https://www.facebook.com/messages/t/dotrangtricuoi
 website: https://www.thegioididong.com/dtdd/oppo-f5
 bandcamp: 
 bandcampLabelTrack: 

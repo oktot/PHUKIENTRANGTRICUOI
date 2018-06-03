@@ -1,4 +1,4 @@
----
+﻿---
 priority: b
 title: NIKE SPORTSWEAR ADVANCE 15
 layout: ArtistPage
@@ -9,10 +9,10 @@ key: nikesportswear
 meta: NIKE SPORTSWEAR ADVANCE 15
 keywords: NIKE SPORTSWEAR ADVANCE 15
 
-location: Bình Dương Province
+location: Sài gòn
 prices: 1,990,000
-orders: http://bakadono.com/payments
-messages: https://www.facebook.com/messages/t/thaoamtanuyen
+orders: http://phukientrangtricuoi.com/payments
+messages: https://www.facebook.com/messages/t/oktotcom
 website: 
 bandcamp: 
 bandcampLabelTrack: 

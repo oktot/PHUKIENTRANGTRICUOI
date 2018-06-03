@@ -1,4 +1,4 @@
----
+﻿---
 priority: b
 title: Future 125cc
 layout: ArtistPage
@@ -9,10 +9,10 @@ key: future125cc
 meta: Future 125cc
 keywords: Future 125cc
 
-location: Bình Dương Province
+location: sài gòn
 prices: 30,000,000
-orders: http://bakadono.com/payments
-messages: https://www.facebook.com/messages/t/thaoamtanuyen
+orders: http://phukientrangtricuoi.com/payments
+messages: https://www.facebook.com/messages/t/dotrangtricuoi
 website: 
 bandcamp: 
 bandcampLabelTrack: 

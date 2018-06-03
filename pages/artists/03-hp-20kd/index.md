@@ -1,34 +1,34 @@
----
+﻿---
 priority: b
-title: Màn hình máy tính HP 20KD (T3U84AA) LED 19.45-inch
+title: Màn hình máy tính HP 24ES (T3M79AA) LED 19.45-inch
 layout: ArtistPage
 category: artists
 path: '/artists/hp-20kd/'
 key: hp20kd
 
-meta: Màn hình máy tính HP 20KD (T3U84AA) LED 19.45-inch
-keywords: Màn hình máy tính HP 20KD (T3U84AA) LED 19.45-inch
+meta: Màn hình máy tính HP 24ES (T3M79AA) LED 19.45-inch
+keywords: Màn hình máy tính 24ES (T3M79AA) LED 19.45-inch
 
-location: Bình Dương Province
-prices: 2,000,000
+location: Hồ chí minh
+prices: 2,500,000
 orders: 
-messages: https://www.facebook.com/messages/t/thaoamtanuyen
+messages: https://www.facebook.com/messages/t/oktotcom
 website: 
 bandcamp: 
 bandcampLabelTrack: 
-facebook: http://bakadono.com/payments
+facebook: http://phukientrangtricuoi/payments
 mixcloud: 
 soundcloud: 
 youtube: 
 discogs: 
 ---
 
-# Review Màn hình máy tính HP 20KD (T3U84AA) LED 19.45-inch
+# Review Màn hình máy tính HP 24ES (T3M79AA) LED 19.45-inch
 
-Kích thước màn hình:	49.4cm (19.45") Anti-Glare 
+Kích thước màn hình:		23.8cm (19.45") Anti-Glare 
 Loại Panel: IPS with LED backlight	
 Tỉ lệ khung hình: 16: 10	
-Độ phân giải tối đa: 1440x900 at 60Hz	
+Độ phân giải tối đa: 1440 x 900 Pixel at 60Hz	
 Độ sáng: 250 nits 
 Độ tương phản tĩnh: 1.000: 1	
 Độ tương phản động: 6.000.000:1	
@@ -38,6 +38,7 @@ Khả năng xoay dọc: -5 độ đến +15 độ
 Cổng kết nối: VGA / DVI-D (with DHCP support)	
 Công xuất tiêu thụ: 18W (Typ), 20W (Max), <0.5W (Standby)	
 Cân nặng: 2.87 kg (có đế), 2.51kg (không đế)
+
 
 # Thông số
 
@@ -59,7 +60,7 @@ Cân nặng: 2.87 kg (có đế), 2.51kg (không đế)
 <p>Model</p>
 </td>
 <td width="353">
-<h4><a href="../man-hinh-hp-20kd-t3u84aa-led-1945-inch_id20244.html">20KD (T3U84AA)</a></h4>
+<h4><a href="../artists/hp-20kd/">24ES (T3M79AA)</a></h4>
 </td>
 </tr>
 <tr>
@@ -149,28 +150,30 @@ Cân nặng: 2.87 kg (có đế), 2.51kg (không đế)
 
 Thiết kế sang trọng
 
-Màn hình Vi tính HP 20KD T3U84AA lấy gam màu đen àm chủ đạo, làm toát lên vẻ trang nhã, sang trọng cho không gian bố trí. Thiết kế mỏng giúp bạn tiết kiệm diện tích cho góc làm việc rất nhiều.
+Màn hình Vi tính HP 24ES (T3M79AA) lấy gam màu đen àm chủ đạo, làm toát lên vẻ trang nhã, sang trọng cho không gian bố trí. Thiết kế mỏng giúp bạn tiết kiệm diện tích cho góc làm việc rất nhiều.
 
-Màn hình vi tính HP 20KD T3U84AA thiết kế đầy sang trọng
+Màn hình vi tính HP 24ES (T3M79AA) thiết kế đầy sang trọng
 
-Màn hình vi tính HP 20KD T3U84AA có vẻ đẹp đầy sang trọng
+Màn hình vi tính HP 24ES (T3M79AA) có vẻ đẹp đầy sang trọng
 
 Màn hình 19.5 inches
 
-Sở hữu màn hình với kích thước 19.5 inches, Màn hình Vi tính HP 20KD T3U84AA giúp bạn có thể dể dàng thao tác và làm việc, giải trí, xem phim hay chơi game. Cuộc vui trở nên thú vị hơn bao giờ hết.
+Sở hữu màn hình với kích thước 19.5 inches, Màn hình Vi tính HP 24ES (T3M79AA) giúp bạn có thể dể dàng thao tác và làm việc, giải trí, xem phim hay chơi game. Cuộc vui trở nên thú vị hơn bao giờ hết.
 
-Màn hình vi tính HP 20KD T3U84AA có kích thước lớn 21.5 inches
+Màn hình vi tính HP 24ES (T3M79AA) có kích thước lớn 21.5 inches
 
-Màn hình 19.5 inches trên màn hình vi tính HP 20KD T3U84AA
+Màn hình 19.5 inches trên màn hình vi tính HP 24ES (T3M79AA)
 
 Hiển thị hình ảnh cực nét
 
-Với độ phân giải 1440 x 900 Pixels, Màn hình Vi tính HP 20KD T3U84AA đem đến những hình ảnh mang chất lượng cao cực kỳ rõ nét. Cảm nhận độ chân thật khi giải trí cũng như khi xem phim ảnh đầy lôi cuốn và thú vị.
+Với độ phân giải 1440 x 900 Pixels, Màn hình Vi tính HP 24ES (T3M79AA) đem đến những hình ảnh mang chất lượng cao cực kỳ rõ nét. Cảm nhận độ chân thật khi giải trí cũng như khi xem phim ảnh đầy lôi cuốn và thú vị.
 
-Màn hình vi tính HP 20KD T3U84AA với độ phân giải 1440x900
+Màn hình vi tính HP 24ES (T3M79AA) với độ phân giải 1440x900
 
 Độ phân giải 1440 x 900 Pixels cho hình ảnh cực nét và chân thật
 
 Góc nhìn rộng
 
-Màn hình vi tính HP 20KD T3U84AA có góc nhìn rộng 178° / 178° độ, rất thích hợp khi nhiều người xem màn hình cùng lúc mà vẫn đảm bảo được nội dung tiếp thu trọn vẹn cho từng người, đem đến hiệu quả làm việc cao.
+Màn hình vi tính HP 24ES (T3M79AA) có góc nhìn rộng 178° / 178° độ, rất thích hợp khi nhiều người xem màn hình cùng lúc mà vẫn đảm bảo được nội dung tiếp thu trọn vẹn cho từng người, đem đến hiệu quả làm việc cao.
+
+
