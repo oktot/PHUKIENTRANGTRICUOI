@@ -16,7 +16,7 @@ Với hình thức thanh toán bằng tiền mặt, quý khách hàng có thể 
 
 
 
-**Công ty Xanh Trong Lành Tại Tp. Hồ Chí Minh:**
+**Công ty Xanh Trong Lành Tại Q3 Tp. Hồ Chí Minh:**
 
 Mã số thuế 0310891003.
 
@@ -25,11 +25,12 @@ Mã số thuế 0310891003.
 Điện thoại liên hệ 0918 870 780 - Mrs Nguyên
 
 
-**Trụ sở cửa hàng Bình Dương**
+**Midorishop tại Bình thạnh**
 
-Địa chỉ đang cập nhật.
-
-Điện thoại đang cập nhật.
+Địa chỉ: 118/49 Bạch Đằng, P24, Q.Bình Thạnh, TP.HCM.
+Phone: 0918.870.780
+Email: nguyenle@midorishop.com.vn
+Working Days/Hours: Từ 8h - 17h | Từ thứ 2 - Thứ 7..
 
 **Đặt mua và thanh toán sau khi nhận hàng**, quý khách hàng vui lòng gửi mail cho chúng tôi đến địa chỉ nguyenle@midorishop.com.vn bao gồm các thông tin sau: Họ và tên (của người nhận cũng như người thanh toán), Số điện thoại liên hệ. Chúng tôi sẽ làm việc với các đơn vị vận chuyển sản phẩm thu tiền khi giao hàng.
 
@@ -38,7 +39,7 @@ Mã số thuế 0310891003.
 Bạn đến bất kỳ ngân hàng nào ở Việt Nam để chuyển tiền theo thông tin bên dưới (bạn không nhất thiết phải có tài khoản ngân hàng)
 
 ---
-| **VCB** |  |  ![Midorishop Payment accept](http://cdn.bakadono.com/assets/img/favicons/bakadono/payment/vietcombank.jpg "Midorishop Payment accept") |
+| **VCB** |  |  ![Midorishop Payment accept](https://epal.vn/wp-content/uploads/2018/05/Logo_vietcombank.png "Midorishop Payment accept") |
 |:-----------|------------:|------------:|
 | Chi nhánh       |  |         Ngân hàng TMCP Ngoại Thương Việt Nam – Tp. Hồ Chí Minh |
 | Chủ tài khoản     |  |       **Lê Thị Thảo Nguyên** |
