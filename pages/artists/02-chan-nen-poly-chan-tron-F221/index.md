@@ -1,13 +1,14 @@
----
-priority: c
+﻿---
+id: 2
 title: Chân Nến poly chân tròn F221 (CN43)
-layout: ArtistPage
-category: artists
-path: '/artists/chan-nen-poly-chan-tron-F221/'
+layout: ReleasePage
+category: releases
+path: '/releases/chan-nen-poly-chan-tron-F221/'
 key: chan-nen-poly-chan-tron-F221
 
 meta: Chân Nến poly chân tròn F221 (CN43)
 keywords: chân nến cổ điển, chân nến poly, Chân Nến poly chân tròn F221
+
 
 location: 
 prices: Call
