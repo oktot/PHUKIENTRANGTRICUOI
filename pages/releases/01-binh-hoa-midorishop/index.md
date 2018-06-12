@@ -1,15 +1,27 @@
 ﻿---
-id: 8
+id: 1
 title: Midorishop khuyến mãi bình hoa dịp lễ
-layout: EventPage
-category: events
-path: '/events/binh-hoa-midorishop/'
+layout: ReleasePage
+category: releases
+path: '/releases/binh-hoa-midorishop/'
 key: binh-hoa-midorishop
 
 meta: Midorishop khuyến mãi bình hoa dịp lễ
 keywords: Midorishop khuyến mãi bình hoa dịp lễ, binh hoa trang tri, chan nen trang tri
 
-psyshine: http://Midorishop.com.vn
+location: 
+prices: Call
+orders: tel:+84918870780
+messages: http://m.me/dotrangtricuoi
+website: 
+YoutubeID: 
+bandcamp: 
+bandcampLabelTrack: 
+facebook: 
+mixcloud: 
+soundcloud: 
+youtube: 
+discogs: 
 ---
 
 Giá siêu rẻ cho các mẫu bình hoa được yêu thích nhất trong năm 2018.
