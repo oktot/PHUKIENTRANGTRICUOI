@@ -1,9 +1,9 @@
 ﻿---
-id: 1
+priority: c
 title: Chân nến poly chân vuông F223 (CN44)
-layout: ReleasePage
-category: releases
-path: '/releases/01-Chan-nen-poly-f223/'
+layout: ArtistPage
+category: artists
+path: '/artists/01-Chan-nen-poly-f223/'
 key: 01-Chan-nen-poly-f223
 
 meta: Chân nến poly chân vuông F223 (CN44)

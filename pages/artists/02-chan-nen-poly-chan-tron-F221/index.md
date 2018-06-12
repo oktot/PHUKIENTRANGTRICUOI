@@ -1,9 +1,9 @@
 ﻿---
-id: 2
+priority: c
 title: Chân Nến poly chân tròn F221 (CN43)
-layout: ReleasePage
-category: releases
-path: '/releases/chan-nen-poly-chan-tron-F221/'
+layout: ArtistPage
+category: artists
+path: '/artists/chan-nen-poly-chan-tron-F221/'
 key: chan-nen-poly-chan-tron-F221
 
 meta: Chân Nến poly chân tròn F221 (CN43)

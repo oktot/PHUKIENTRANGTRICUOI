@@ -1,9 +1,9 @@
 ﻿---
-id: 3
+priority: c
 title: Chân nến poly kiếng thấp 20K1(CN41)
-layout: ReleasePage
-category: releases
-path: '/releases/chan-nen-poly-kieng-thap-20K1/'
+layout: ArtistPage
+category: artists
+path: '/artists/chan-nen-poly-kieng-thap-20K1/'
 key: chan-nen-poly-kieng-thap-20K1
 
 meta: Chân nến poly kiếng thấp 20K1(CN41)
