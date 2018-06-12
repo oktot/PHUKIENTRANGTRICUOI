@@ -1,7 +1,7 @@
----
-title: 'Chân nến poly'
+﻿---
+title: 'Chân nến'
 layout: Artists
 path: '/artists/'
-meta: Danh mục Chân nến poly
-keywords: Chân nến poly
+meta: Danh mục Chân nến
+keywords: Chân nến
 ---
