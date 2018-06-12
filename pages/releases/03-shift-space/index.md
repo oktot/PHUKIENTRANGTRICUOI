@@ -1,16 +1,29 @@
 ﻿---
-id: 1
+id: 3
 title: Bình mẫu mới 
-layout: EventPage
-category: events
-path: '/events/shiftspace/'
+layout: ReleasePage
+category: releases
+path: '/releases/shiftspace/'
 key: shiftspace
 
 meta: Bình mẫu mới 
 keywords: binh hoa trang tri, chan nen trang tri, chan nen midorishop
 
-psyshine: http://midorishop.com.vn
+location: 
+prices: Call
+orders: tel:+84918870780
+messages: http://m.me/dotrangtricuoi
+website: 
+YoutubeID: 
+bandcamp: 
+bandcampLabelTrack: 
+facebook: 
+mixcloud: 
+soundcloud: 
+youtube: 
+discogs: 
 ---
+
 
 Bình mẫu mới đã về và các mẫu được iu thích, nhanh nhanh đặt hàng nha các bạn.
 
